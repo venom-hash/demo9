@@ -1,0 +1,6 @@
+name = "placeholder-model-2"
+compatibility_date = "2026-04-30"
+
+[pages]
+build_command = "npm run build"
+pages_build_output_dir = "dist"
